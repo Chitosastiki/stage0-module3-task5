@@ -7,7 +7,7 @@ public class ThreeStuckVars {
             int second = 10;
             int third= 100;
         for (int i: new int[]{first, second, third}){
-            System.out.print(i)
+            System.out.print(i);
         
         }
     }
